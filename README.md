@@ -37,7 +37,7 @@ Kovai Connect is a digital onboarding platform designed to help local businesses
 Kovai-Connect/
 │
 ├── src/                 # Main source code
-├── .lovable/            # Lovable project configuration
+├── .lovable/            
 ├── .gitignore
 ├── .prettierignore
 ├── .prettierrc
